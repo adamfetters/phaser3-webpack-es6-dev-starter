@@ -11,7 +11,8 @@
 		"@babel/preset-env": "^7.4.5",
 		"babel-loader": "^8.0.6",
 		"webpack": "^4.32.2",
-		"webpack-cli": "^3.3.2"
+		"webpack-cli": "^3.3.2",
+		"webpack-dev-server": "^3.5.0"
 	},
 	"dependencies": {
 		"phaser": "^3.17.0"
