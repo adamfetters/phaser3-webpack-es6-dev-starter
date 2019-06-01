@@ -7,9 +7,11 @@
 	"author": "Adam Fetters <adamfetterscoder@gmail.com>",
 	"license": "MIT",
 	"devDependencies": {
+		"@babel/core": "^7.4.5",
+		"@babel/preset-env": "^7.4.5",
 		"babel-loader": "^8.0.6",
-		"babel-preset-env": "^1.7.0",
-		"webpack": "^4.32.2"
+		"webpack": "^4.32.2",
+		"webpack-cli": "^3.3.2"
 	},
 	"dependencies": {
 		"phaser": "^3.17.0"
