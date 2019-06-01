@@ -48,4 +48,9 @@ module.exports = {
 			'typeof WEBGL_RENDERER': JSON.stringify(true),
 		}),
 	],
+	optimization: {
+		splitChunks: {
+			chunks: 'all',
+		},
+	},
 };
