@@ -1,18 +1,17 @@
 {
-  "name": "phaser3-webpack-es6-dev-starter",
-  "version": "1.0.0",
-  "description": "A project starter for developing Phaser 3 games using Webpack and ES6.",
-  "main": "index.js",
-  "repository": "https://github.com/adamfetters/phaser3-webpack-es6-dev-starter",
-  "author": "Adam Fetters <adamfetterscoder@gmail.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "babel-core": "^7.0.0-bridge.0",
-    "babel-loader": "^8.0.6",
-    "babel-preset-env": "^1.7.0",
-    "webpack": "^4.32.2"
-  },
-  "dependencies": {
-    "phaser": "^3.17.0"
-  }
+	"name": "phaser3-webpack-es6-dev-starter",
+	"version": "1.0.0",
+	"description": "A project starter for developing Phaser 3 games using Webpack and ES6.",
+	"main": "index.js",
+	"repository": "https://github.com/adamfetters/phaser3-webpack-es6-dev-starter",
+	"author": "Adam Fetters <adamfetterscoder@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"babel-loader": "^8.0.6",
+		"babel-preset-env": "^1.7.0",
+		"webpack": "^4.32.2"
+	},
+	"dependencies": {
+		"phaser": "^3.17.0"
+	}
 }
