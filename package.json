@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/adamfetters/phaser3-webpack-es6-dev-starter",
   "author": "Adam Fetters <adamfetterscoder@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.32.2"
+  }
 }
