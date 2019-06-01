@@ -7,6 +7,11 @@
   "author": "Adam Fetters <adamfetterscoder@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-loader": "^8.0.6",
     "webpack": "^4.32.2"
+  },
+  "dependencies": {
+    "phaser": "^3.17.0"
   }
 }
